@@ -1,0 +1,8 @@
+# generated outputs and private data never go in the repo
+*.pdf
+*.docx
+national.json
+node_modules/
+up/
+p/
+.DS_Store

@@ -1,0 +1,38 @@
+[
+ {
+  "key": "XXXX_JrSRE",
+  "company": "XXXX Health Software",
+  "role": "Jr Software Engineer (SRE)",
+  "city": "Mississauga, ON",
+  "remote": false,
+  "track": "ai",
+  "resume": "tech",
+  "hook": "This role reads like the work I want to do: troubleshooting, automation and AI tooling that takes repetitive work off engineers. I'm comfortable in Linux, Bash and Python. I haven't used Azure, Kubernetes or Datadog yet, but I learn new systems fast and I'd love to learn them from experienced SREs.",
+  "summary": "Computer Science graduate (Memorial University, 2026) who likes knowing how systems behave in the real world. Python, Bash and Linux, REST APIs, unit testing and Git, plus a self-recovering data pipeline that handles its own failures. Uses AI-assisted tools like Claude Code every day and is working through UiPath automation courses. Ready to relocate to Mississauga or work remotely."
+ },
+ {
+  "key": "XXXX_CustomerSupportEngineer",
+  "company": "XXXX Networks",
+  "role": "Customer Support Engineer (Tier 1)",
+  "city": "Remote, Canada",
+  "remote": true,
+  "track": "support",
+  "resume": "tech",
+  "hook": "I'm a tinkerer. I set up my own AI-assisted development workflow, I'm comfortable on Linux and Windows, and I like nothing more than figuring out why something won't connect. Client-server design and HTTP came up constantly in my game server project, and I'd love to go deeper on DNS, routing and firewalls with your team.",
+  "gap": "I haven't worked a support ticket queue in tech yet",
+  "summary": "Computer Science graduate (Memorial University, 2026) and natural tinkerer who loves troubleshooting. Python, SQL, Linux, Git and REST APIs, plus years of customer-facing work explaining things clearly to people under pressure. Uses AI-assisted tools like Claude Code daily. Based in St. John's, NL."
+ },
+ {
+  "key": "XXXX_AIAutomationAssociate",
+  "company": "XXXX Consulting",
+  "role": "AI & Automation Consultant Associate",
+  "city": "Calgary, AB",
+  "remote": false,
+  "track": "ai",
+  "resume": "ai",
+  "hook": "Helping a business rethink how its work gets done with AI is exactly what I want to do. I already run my own job search through a multi-step AI workflow with human checks built in, and I'd love to do that kind of work for clients.",
+  "gap": "I haven't worked in consulting yet",
+  "summary": "Computer Science graduate (Memorial University, 2026) focused on AI and automation: PyTorch, Python and REST APIs, daily use of Claude Code with careful verification of outputs, and UiPath automation courses in progress. Years of customer-facing sales and service, so comfortable presenting ideas to non-technical people. Ready to relocate to Calgary.",
+  "ps": "P.S. I built an AI agent workflow around Claude to run my job search. It found this role, tailored this letter and checked it against your posting, and I read every word before it went out. It's the most real agentic-automation project I have, and I'd love to show it to you."
+ }
+]
